@@ -10,7 +10,7 @@
 
 ## Demo
 
-https://web-tinh-tien-nhanh.pages.dev
+https://tinh-tien-nhanh.pages.dev
 
 ## Tính năng
 
